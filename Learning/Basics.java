@@ -208,6 +208,8 @@ public class Basics{
         
         Java Arrays : 
 
-            
+            int[] numbers = {1,2,3,4,5,6};
+
+            int[][] 2D_numbers = {{1,2,3,4},{5,6,7}}
         */
 }
